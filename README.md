@@ -1,1 +1,1 @@
-![# Predicting Credit Card Approvals](Python Project cc.PNG)
+![Predicting Credit Card Approvals](Python Project cc.PNG)
